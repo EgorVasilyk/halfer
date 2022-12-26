@@ -1,0 +1,15 @@
+C:\Users\insek\source\repos\Halfer\Halfer\bin\Debug\net6.0\Halfer.exe
+C:\Users\insek\source\repos\Halfer\Halfer\bin\Debug\net6.0\Halfer.deps.json
+C:\Users\insek\source\repos\Halfer\Halfer\bin\Debug\net6.0\Halfer.runtimeconfig.json
+C:\Users\insek\source\repos\Halfer\Halfer\bin\Debug\net6.0\Halfer.dll
+C:\Users\insek\source\repos\Halfer\Halfer\bin\Debug\net6.0\Halfer.pdb
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.csproj.AssemblyReference.cache
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.AssemblyInfoInputs.cache
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.AssemblyInfo.cs
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.csproj.CoreCompileInputs.cache
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.dll
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\refint\Halfer.dll
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.pdb
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\Halfer.genruntimeconfig.cache
+C:\Users\insek\source\repos\Halfer\Halfer\obj\Debug\net6.0\ref\Halfer.dll
